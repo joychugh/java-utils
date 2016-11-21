@@ -9,7 +9,6 @@
 
 	<modules>
 		<module>misc</module>
-		<module>cloud</module>
 		<module>test</module>
 		<module>xml</module>
 		<module>ws</module>
